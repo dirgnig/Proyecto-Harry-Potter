@@ -1,0 +1,222 @@
+@media (min-width:1366px) and (max-width:1377px) {
+  body {
+    background-image: url(IMG/salacomunslytherin.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: green;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  div {
+    background: white;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+    opacity: 0.8;
+  }
+  
+  h1 {
+    box-shadow: 0 0 5px green, 0 0 15px green, 0 0 20px green;
+    background-color: black;
+    color: white;
+    width: 1354px;
+  }
+  
+  h1:hover {
+    color: green;
+  }
+  
+  h4 {
+    color: grey;
+  }
+  
+  img {
+    height: 200px;
+    width: 200px;
+    margin-right: 5%;
+    border-radius: 50%;
+  }
+  
+  * {
+    padding: 0.9px;
+    margin: 0.9px;
+  }
+  
+  a button {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    margin-right: 30px;
+    box-shadow: 0 0 5px green, 0 0 15px green, 0 0 20px green;
+  }
+  
+  a button:hover {
+    color: green;
+  }
+  
+  #modificar {
+    width: 82rem;
+    height: 312px;
+    margin-left: 20px;
+  }
+  
+  #img {
+    margin-right: 2rem;
+  }
+  
+  #h4 {
+    margin-left: 55px;
+    width: 1200px;
+  }
+}
+
+@media (min-width:1920px) {
+
+  body {
+    background-image: url(IMG/salacomunslytherin.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: green;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  div {
+    background: white;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+    opacity: 0.8;
+  }
+  
+  h1 {
+    box-shadow: 0 0 5px green, 0 0 15px green, 0 0 20px green;
+    background-color: black;
+    color: white;
+    width: 1907px;
+  }
+  
+  h1:hover {
+    color: green;
+  }
+  
+  h4 {
+    color: grey;
+  }
+  
+  img {
+    height: 200px;
+    width: 200px;
+    margin-right: 5%;
+    border-radius: 50%;
+  }
+  
+  * {
+    padding: 0.9px;
+    margin: 0.9px;
+  }
+  
+  a button {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    margin-right: 30px;
+    box-shadow: 0 0 5px green, 0 0 15px green, 0 0 20px green;
+  }
+  
+  a button:hover {
+    color: green;
+  }
+  
+  #modificar {
+    width: 117rem;
+    height: 290px;
+    margin-left: 20px;
+  }
+  
+  #img {
+    margin-right: 2rem;
+  }
+  
+  #h4 {
+    margin-left: 330px;
+    width: 1200px;
+  }
+
+}
+
+/*@media (min-width:1920px){
+  body {
+    background-image: url(IMG/salacomunslytherin.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: green;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  div {
+    background: white;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+    opacity: 0.8;
+  }
+  
+  h1 {
+    box-shadow: 0 0 5px green, 0 0 15px green, 0 0 20px green;
+    background-color: black;
+    color: white;
+    width: 1069px;
+  }
+  
+  h1:hover {
+    color: green;
+  }
+  
+  h4 {
+    color: grey;
+  }
+  
+  img {
+    height: 200px;
+    width: 200px;
+    margin-right: 5%;
+    border-radius: 50%;
+  }
+  
+  * {
+    padding: 0.9px;
+    margin: 0.9px;
+  }
+  
+  a button {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    margin-right: 45px;
+    box-shadow: 0 0 5px green, 0 0 15px green, 0 0 20px green;
+  }
+  
+  a button:hover {
+    color: green;
+  }
+  
+  #modificar {
+    width: 64rem;
+    height: 350px;
+    margin-left: 20px;
+  }
+  
+  #img {
+    margin-right: 2rem;
+  }
+  
+  #h4 {
+    margin-left: 270px;
+    text-align: left;
+    width: 1180px;
+  }
+}*/
+

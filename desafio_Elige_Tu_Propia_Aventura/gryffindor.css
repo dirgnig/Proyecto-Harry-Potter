@@ -1,0 +1,235 @@
+@media (min-width:1366px) and (max-width:1377px) { /*(min-width:1366px) and (max-width:1377px)*/
+  body {
+    background-image: url(IMG/salacomungryffindor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: yellow;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  div {
+    background: white;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+    opacity: 0.8;
+  }
+  
+  h1 {
+    box-shadow: 0 0 5px red, 0 0 15px red, 0 0 20px red;
+    background-color: black;
+    color: white;
+    width: 1355px;
+  }
+  
+  h1:hover {
+    color: red;
+  }
+  
+  .letras {
+    color: red;
+  }
+
+  #parrafo {
+    width: 1000px;
+    margin-left: 200px;
+  }
+  
+  img {
+    height: 100px;
+    width: 200px;
+    margin-right: 5%;
+    border-radius: 50%;
+  }
+  
+  * {
+    padding: 0.9px;
+    margin: 0.9px;
+  }
+  
+  a button {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    margin-left: 30px;
+    box-shadow: 0 0 5px red, 0 0 15px red, 0 0 20px red;
+  }
+  
+  a button:hover {
+    color: red;
+  }
+
+  #modificar {
+    width: 82rem;
+    height: 300px;
+    margin-left: 20px;
+  }
+
+  #img {
+    margin-left: 30px;
+  }
+
+  #h4 {
+    margin-left: 100px;
+    width: 1180px;
+  }
+}
+
+
+@media (min-width:1920px) {
+  body {
+    background-image: url(IMG/salacomungryffindor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: yellow;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  div {
+    background: white;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+    opacity: 0.8;
+  }
+  
+  h1 {
+    box-shadow: 0 0 5px red, 0 0 15px red, 0 0 20px red;
+    background-color: black;
+    color: white;
+    width: 1909px;
+  }
+  
+  h1:hover {
+    color: red;
+  }
+  
+  .letras {
+    color: red;
+  }
+
+  #parrafo {
+    width: 1000px;
+    margin-left: 450px;
+  }
+  
+  img {
+    height: 100px;
+    width: 200px;
+    margin-right: 5%;
+    border-radius: 50%;
+  }
+  
+  * {
+    padding: 0.9px;
+    margin: 0.9px;
+  }
+  
+  a button {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    margin-right: 30px;
+    box-shadow: 0 0 5px red, 0 0 15px red, 0 0 20px red;
+  }
+  
+  a button:hover {
+    color: red;
+  }
+
+  #modificar {
+    width: 117rem;
+    height: 200px;
+    margin-left: 20px;
+  }
+
+  #img {
+    margin-left: 30px;
+  }
+
+  #h4 {
+    margin-left: 350px;
+    width: 1180px;
+  }
+}
+
+/*@media (min-width:1920px) { 
+  body {
+    background-image: url(IMG/salacomungryffindor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: yellow;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  div {
+    background: white;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+    opacity: 0.8;
+  }
+  
+  h1 {
+    box-shadow: 0 0 5px red, 0 0 15px red, 0 0 20px red;
+    background-color: black;
+    color: white;
+    width: 1070px;
+  }
+  
+  h1:hover {
+    color: red;
+  }
+  
+  .letras {
+    color: red;
+  }
+
+  #parrafo {
+    width: 1000px;
+    margin-left: 35px;
+  }
+  
+  img {
+    height: 100px;
+    width: 200px;
+    margin-right: 5%;
+    border-radius: 50%;
+  }
+  
+  * {
+    padding: 0.9px;
+    margin: 0.9px;
+  }
+  
+  a button {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    margin-right: 10px;
+    box-shadow: 0 0 5px red, 0 0 15px red, 0 0 20px red;
+  }
+  
+  a button:hover {
+    color: red;
+  }
+
+  #modificar {
+    width: 64rem;
+    height: 350px;
+    margin-left: 20px;
+  }
+
+  #img {
+    margin-left: 20px;
+  }
+
+  #h4 {
+    width: 1180px;
+    text-align: left;
+    margin-left: 380px;
+  }
+}*/
